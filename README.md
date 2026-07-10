@@ -1,4 +1,4 @@
-<img width="732" height="897" alt="image" src="https://github.com/user-attachments/assets/c18acd31-232b-4dcd-8c02-8e24f2a8ce97" /># Python GUI Login Page using Tkinter
+Tkinter
 
 A simple Login Page application built using Python, Tkinter, and Pillow (PIL).
 
@@ -21,9 +21,9 @@ A simple Login Page application built using Python, Tkinter, and Pillow (PIL).
 
 ## Project Preview
 
-<img width="732" height="897" alt="image" src="https://github.com/user-attachments/assets/7b0e630c-2665-45cb-86c9-140aa5008404" />
-<img width="867" height="881" alt="image" src="https://github.com/user-attachments/assets/5891e557-d234-4cf5-bebf-677b7910448c" />
-<img width="797" height="786" alt="image" src="https://github.com/user-attachments/assets/ac5b1c79-df5d-4b23-9fab-4318560a0812" />
+<img width="366" height="448" alt="image" src="https://github.com/user-attachments/assets/7b0e630c-2665-45cb-86c9-140aa5008404" />
+<img width="433" height="440" alt="image" src="https://github.com/user-attachments/assets/5891e557-d234-4cf5-bebf-677b7910448c" />
+<img width="398" height="398" alt="image" src="https://github.com/user-attachments/assets/ac5b1c79-df5d-4b23-9fab-4318560a0812" />
 
 
 ## Learning Outcomes
